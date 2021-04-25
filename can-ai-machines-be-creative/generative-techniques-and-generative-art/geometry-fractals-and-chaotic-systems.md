@@ -1,6 +1,6 @@
 # Geometry, Fractals and Chaotic Systems
 
-![Tweak, Neeraj Pandey](.gitbook/assets/screenshot-2021-04-25-at-06.17.02.png)
+![Tweak, Neeraj Pandey](../../.gitbook/assets/screenshot-2021-04-25-at-06.17.02.png)
 
 Geometry plays an important role in the creation of generative art and algorithms. If we look around the work throughout history, there is evidence of artists using iterative symmetry of geometric figures to generate form. Even geometry is the most important factor for understanding numbers. Greek Mathematicians’ ideas about numbers were closely related to geometry - to quantities like length, perimeter, and area. As a result, there was no developed concept of negative numbers since such geometric quantities are always positive! This is not only important in generative art, but also in the field of architecture, music, poetry, and visual arts.
 
@@ -10,7 +10,7 @@ Geometry is one of the main fields involved also in the construction of generati
 
 When we look back at ancient architecture, we see numerous examples where symmetry \(golden ratio, musical ratio, square\) is being used in the creation of architectural sites, and there have been critics who oppose the concept of symmetry as an autonomous system. Upon analysis and deeper study of symmetry in various objects, it can be said that the use of symmetry is more of an autonomous system than a piece of art and is more primitive when symmetry and geometry are used in textiles, repeating shapes, and more. Generative art also draws inspiration from the use of tiling in the architecture, more particularly with the abstract systems to decorate specific surfaces especially from the Islamic and Roman architecture where lies the roots of algorithms and bassinet of mathematical innovations.
 
-![Julia Set](.gitbook/assets/screenshot-2021-04-25-at-06.18.55.png)
+![Julia Set](../../.gitbook/assets/screenshot-2021-04-25-at-06.18.55.png)
 
 Fractals are unique and complicated mathematical forms of art. These are the neverending patterns, which means no matter how much we zoom in we will see a similar pattern over and over again on any scale. Fractals are everywhere from the snowflakes, galaxies, cloud formations, broccoli, and flowers in nature. The term fractal was coined by Benoit Mandelbrot, who worked at IBM in New York.
 
@@ -18,9 +18,5 @@ He was inspired by the works of mathematicians to understand the curve and exper
 
 One of the most amazing facts about the Mandelbrot fractal is that the more you zoom in the newer patterns you see forming inside of it. This also led to the new era of math called the ‘Fractal geometry’, and has been used in fields like climate change, trajectories of meteoroids, and more. Fractals are quite popular among programmers and generative artists because a small set of code can produce images that are way more intricate than any human hand could ever hope to draw.
 
-![Equation](.gitbook/assets/screenshot-2021-04-25-at-06.28.18.png)
-
 The Mandelbrot fractal is represented on a complex plane where there is a coordinate that has complex numbers. The X-Y axis represents the real axions and the Z-axis represents the imaginary part. We pick a number C, any number in the complex plane and start with z = 0, and then iterate the equation over and over again. If it blows up to infinity, then the number C is not part of the set, and if the number C remains finite after infinite iterations, it's a part of the Mandelbrot set. If C is held constant and the initial value of z is variable instead, then one obtains the corresponding Julia set for each point in the parameter space of the simple function.
-
-Inside the Mandelbrot set, there are two parts, the main bulb, and the main cardioid. All of the numbers in the main cardioid end up stabilizing onto a single constant value but the numbers in this main bulb end up oscillating back and forth between two values and then hit the Chaotic part. The Chaotic part happens only at the needle, where the Mandelbrot set gets very thin.
 
