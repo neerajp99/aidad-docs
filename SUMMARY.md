@@ -24,7 +24,16 @@
       * [Fractals](can-ai-machines-be-creative/generative-techniques-and-generative-art/geometry-fractals-and-chaotic-systems/fractals.md)
       * [Chaotic Systems](can-ai-machines-be-creative/generative-techniques-and-generative-art/geometry-fractals-and-chaotic-systems/chaotic-systems.md)
     * [Effective Complexity / Control in Generative Art](can-ai-machines-be-creative/generative-techniques-and-generative-art/effective-complexity-control-in-generative-art.md)
+  * [Generative/Music Intelligence](can-ai-machines-be-creative/generative-music-intelligence.md)
+  * [Generative Design](can-ai-machines-be-creative/generative-design.md)
 
 ## The ‘heart’ of AI based systems – Society, Human Interactions, Economics, Philosophy and Behavior
 
-* [Page 1](the-heart-of-ai-based-systems-society-human-interactions-economics-philosophy-and-behavior/page-1.md)
+* [Art, Art in Artificial Intelligence and can a machine actually produce art?](the-heart-of-ai-based-systems-society-human-interactions-economics-philosophy-and-behavior/art-art-in-artificial-intelligence-and-can-a-machine-actually-produce-art.md)
+* [The risk to cultural heritage](the-heart-of-ai-based-systems-society-human-interactions-economics-philosophy-and-behavior/the-risk-to-cultural-heritage.md)
+* [How would have Philosophers seen Art produced from Artificial Intelligence?](the-heart-of-ai-based-systems-society-human-interactions-economics-philosophy-and-behavior/how-would-have-philosophers-seen-art-produced-from-artificial-intelligence.md)
+* [AI - ART Movement. The new ‘Dada’ Movement. Is it the 20th Century Dada Movement?](the-heart-of-ai-based-systems-society-human-interactions-economics-philosophy-and-behavior/ai-art-movement.-the-new-dada-movement.-is-it-the-20th-century-dada-movement.md)
+* [The present-day democratization of AI ART](the-heart-of-ai-based-systems-society-human-interactions-economics-philosophy-and-behavior/the-present-day-democratization-of-ai-art.md)
+* [History of Computational Art democratization](the-heart-of-ai-based-systems-society-human-interactions-economics-philosophy-and-behavior/history-of-computational-art-democratization.md)
+* [The economics and behavioral economics of AI Art](the-heart-of-ai-based-systems-society-human-interactions-economics-philosophy-and-behavior/the-economics-and-behavioral-economics-of-ai-art/README.md)
+  * [The demand side analysis of the AI art market](the-heart-of-ai-based-systems-society-human-interactions-economics-philosophy-and-behavior/the-economics-and-behavioral-economics-of-ai-art/the-demand-side-analysis-of-the-ai-art-market.md)
