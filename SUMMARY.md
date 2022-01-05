@@ -42,3 +42,6 @@
   * [The hidden ‘art’ of the art market](the-heart-of-ai-based-systems-society-human-interactions-economics-philosophy-and-behavior/the-economics-and-behavioral-economics-of-ai-art/the-hidden-art-of-the-art-market.md)
   * [The ‘dark’ of the art market](the-heart-of-ai-based-systems-society-human-interactions-economics-philosophy-and-behavior/the-economics-and-behavioral-economics-of-ai-art/the-dark-of-the-art-market.md)
   * [The producer side analysis](the-heart-of-ai-based-systems-society-human-interactions-economics-philosophy-and-behavior/the-economics-and-behavioral-economics-of-ai-art/the-producer-side-analysis.md)
+  * [The problem of profit division in AI Art](the-heart-of-ai-based-systems-society-human-interactions-economics-philosophy-and-behavior/the-economics-and-behavioral-economics-of-ai-art/the-problem-of-profit-division-in-ai-art.md)
+  * [Generative Design industry](the-heart-of-ai-based-systems-society-human-interactions-economics-philosophy-and-behavior/the-economics-and-behavioral-economics-of-ai-art/generative-design-industry.md)
+  * [Could AI art be the new Ghost Work? The possibility of darkness behind color.](the-heart-of-ai-based-systems-society-human-interactions-economics-philosophy-and-behavior/the-economics-and-behavioral-economics-of-ai-art/could-ai-art-be-the-new-ghost-work-the-possibility-of-darkness-behind-color..md)
