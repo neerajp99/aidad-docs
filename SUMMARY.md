@@ -1,6 +1,6 @@
 # Table of contents
 
-* [AI Art and Design Perceptions](README.md)
+* [AI Art and Design                   Perceptions](README.md)
 * [Contents](contents-1.md)
 * [Acknowledgements](acknowledgements.md)
 * [Abstract](abstract.md)
@@ -53,3 +53,4 @@
 ## References
 
 * [References](references/references.md)
+* [Interviews](references/interviews.md)

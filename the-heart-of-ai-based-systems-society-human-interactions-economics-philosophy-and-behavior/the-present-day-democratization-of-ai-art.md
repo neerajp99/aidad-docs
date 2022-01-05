@@ -12,9 +12,9 @@ Thus, in our perspective, it is quintessential for new forms of Art like AI base
 
 With the current COVID-19 pandemic situation and the likelihood of a deep Economic recession, there is a risk of a lack of ability to buy art related goods especially due to a low operating AI art market. However, with AI art, as discussed with several of the AI artists as part of our interviews, the cost of producing art is significantly lower. A basic AI virtual art piece requires a computer and appropriate coding skills. This simplicity to making an art piece along with a creative mindset enables remarkable art pieces to be produced over the computer. And in turn, the final output can be easily spread around the world via social media as a lot of AI artists propagate their art works via Instagram hashtags. This is on the similar lines to Art works produced by the ‘Dada’ movement which propagated Dadaism via revolution campaigns and street side shows, which attracted more and more young artists and experimenters to Dadaism. It is for a similar reason a lot of the French Artists in the Dadaism campaign began new forms of Art like Surrealism leading to artworks like Salvador Dali’s Oblivion.
 
-On a similar level, AI art works have also emerged in its own realm leading to generative design pieces, science fiction digital art and some revolutionary design concepts like Generative Art used on Shoe designs by companies like Adidas to design new revolutionary shoes for better sport performances$$^1$$.&#x20;
+On a similar level, AI art works have also emerged in its own realm leading to generative design pieces, science fiction digital art and some revolutionary design concepts like Generative Art used on Shoe designs by companies like Adidas to design new revolutionary shoes for better sport performances.
 
-Another example of such a dramatic piece is Japanese AI Artist Nao Takui’s Imaginary Landscape installations which create “multilayered environments that don’t exist anywhere” $$^2$$   (2018).
+Another example of such a dramatic piece is Japanese AI Artist Nao Takui’s Imaginary Landscape installations which create “multilayered environments that don’t exist anywhere” (2018).
 
 However, this field is still left unexplored for many traditional artists who are hesitant to explore and also at times lack the technical exposure for making Artificial Intelligence Art. A solution to increase this exposure of Artificial Intelligence based art and the key to democratize AI Art is via Art Workshops and AI Art interactive exhibitions, as per AI artist Roman Lipski, who uses AI art as a muse to give the artist ideas and propel his thought process in a certain way. This is what artist Roman Lipski believes he is doing through his ‘Unfinished’ art works and workshops (Live Interview, August 4, 2020). The workshops involve the use of Roman Lipski’s AI art muse, workshop students and himself to build a final art piece out of it. This way more people are educated about AI Art and the tools involved around it and at the same time also nudging the mind to think in different ways via AI based art. He believes it sort of triggers the ‘imagination’.
 
@@ -22,13 +22,3 @@ In a similar way, AI Art can be posed as an important educational tool to inspir
 
 By experimenting with algorithms, they have a better idea of the final output. And through this experimentation, they are learning something more about Computational Tools. Thus, AI art can be poised as an interactive tool for learning new programming skills and at the same time, harnessing creativity and design thinking. As per most of the interviewed artists in our project, the creation of AI based Art is more of a metamorphosis - Several models, algorithms and tests are created to better understand AI and art in general. This is the reason most of the interviewed artists believe their artworks have evolved over a period of time and often linking one artwork to another has made them better programmers as well.
 
-
-
-<mark style="color:orange;"></mark>
-
-<mark style="color:orange;"></mark>
-
-<mark style="color:blue;">Footnotes:</mark>
-
-1. <mark style="color:orange;"></mark>[<mark style="color:orange;">https://www.camstew.ink/work</mark>](https://www.camstew.ink/work)<mark style="color:orange;"></mark>
-2. <mark style="color:orange;"></mark>[<mark style="color:orange;">http://naotokui.net/projects/imaginary-landscape-2018/</mark>](http://naotokui.net/projects/imaginary-landscape-2018/)<mark style="color:orange;"></mark>
