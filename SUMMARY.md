@@ -37,3 +37,7 @@
 * [History of Computational Art democratization](the-heart-of-ai-based-systems-society-human-interactions-economics-philosophy-and-behavior/history-of-computational-art-democratization.md)
 * [The economics and behavioral economics of AI Art](the-heart-of-ai-based-systems-society-human-interactions-economics-philosophy-and-behavior/the-economics-and-behavioral-economics-of-ai-art/README.md)
   * [The demand side analysis of the AI art market](the-heart-of-ai-based-systems-society-human-interactions-economics-philosophy-and-behavior/the-economics-and-behavioral-economics-of-ai-art/the-demand-side-analysis-of-the-ai-art-market.md)
+  * [The behavioral economics of the ‘Name Tag’ and “Risk”](the-heart-of-ai-based-systems-society-human-interactions-economics-philosophy-and-behavior/the-economics-and-behavioral-economics-of-ai-art/the-behavioral-economics-of-the-name-tag-and-risk.md)
+  * [Value Creation in the AI Art market](the-heart-of-ai-based-systems-society-human-interactions-economics-philosophy-and-behavior/the-economics-and-behavioral-economics-of-ai-art/value-creation-in-the-ai-art-market.md)
+  * [The hidden ‘art’ of the art market](the-heart-of-ai-based-systems-society-human-interactions-economics-philosophy-and-behavior/the-economics-and-behavioral-economics-of-ai-art/the-hidden-art-of-the-art-market.md)
+  * [The ‘dark’ of the art market](the-heart-of-ai-based-systems-society-human-interactions-economics-philosophy-and-behavior/the-economics-and-behavioral-economics-of-ai-art/the-dark-of-the-art-market.md)
