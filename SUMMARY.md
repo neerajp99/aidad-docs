@@ -45,3 +45,11 @@
   * [The problem of profit division in AI Art](the-heart-of-ai-based-systems-society-human-interactions-economics-philosophy-and-behavior/the-economics-and-behavioral-economics-of-ai-art/the-problem-of-profit-division-in-ai-art.md)
   * [Generative Design industry](the-heart-of-ai-based-systems-society-human-interactions-economics-philosophy-and-behavior/the-economics-and-behavioral-economics-of-ai-art/generative-design-industry.md)
   * [Could AI art be the new Ghost Work? The possibility of darkness behind color.](the-heart-of-ai-based-systems-society-human-interactions-economics-philosophy-and-behavior/the-economics-and-behavioral-economics-of-ai-art/could-ai-art-be-the-new-ghost-work-the-possibility-of-darkness-behind-color..md)
+
+## AI, Economic Growth, Jobs and Art
+
+* [Broad overview](ai-economic-growth-jobs-and-art/broad-overview.md)
+
+## References
+
+* [References](references/references.md)
