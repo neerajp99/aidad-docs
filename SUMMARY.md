@@ -22,6 +22,8 @@
     * [Mathematics, Algorithms & Geometry](can-ai-machines-be-creative/generative-techniques-and-generative-art/mathematics-algorithms-and-geometry.md)
     * [Geometry, Fractals and Chaotic Systems](can-ai-machines-be-creative/generative-techniques-and-generative-art/geometry-fractals-and-chaotic-systems/README.md)
       * [Fractals](can-ai-machines-be-creative/generative-techniques-and-generative-art/geometry-fractals-and-chaotic-systems/fractals.md)
+      * [Chaotic Systems](can-ai-machines-be-creative/generative-techniques-and-generative-art/geometry-fractals-and-chaotic-systems/chaotic-systems.md)
+    * [Effective Complexity / Control in Generative Art](can-ai-machines-be-creative/generative-techniques-and-generative-art/effective-complexity-control-in-generative-art.md)
 
 ## The ‘heart’ of AI based systems – Society, Human Interactions, Economics, Philosophy and Behavior
 
