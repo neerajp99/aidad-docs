@@ -1,2 +1,7 @@
 # The ‘dark’ of the art market
 
+The ‘dark’ of the art market undoubtedly exists within the market economy, which here is being referred to as the “Black Market” that is largely also hidden in the market economy, and is untaxed, unrecognized and never comes up front. In an email interview with Tjeerd Hoek, Head of Creative at technology and design consultancy Argo Design, Hoek explained how he felt that “The international trade in Art is a white washing scheme for criminally obtained funds and tax evasion”, which is indeed the unfortunate and stark reality of the art market and this could be partially the reason why new forms of art struggle because certain art has already been established with in the art market. According to Thomas Christ at the Basel Institute of Governance, _“The art market is an ideal playing ground for money laundering”_ (Bowley, 2017).
+
+This is also partially because there are several instances where the identity of the owner is kept secret and anonymous with buyers (who are in fact many a times billionaire fraudsters/black marketers), dealing through their highly secretive agents. (Bowley, 2017).
+
+And because of these key players investing large sums of money into art pieces, newer Arts like AI based art remain hidden in the darkness because investors would not want to take the risk of investing in AI art. They would invest into something that offers guaranteed returns and AI art in one sense at the time being, is less about returns but more about expertise, knowledge, technical skills and creativity.

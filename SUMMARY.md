@@ -41,3 +41,4 @@
   * [Value Creation in the AI Art market](the-heart-of-ai-based-systems-society-human-interactions-economics-philosophy-and-behavior/the-economics-and-behavioral-economics-of-ai-art/value-creation-in-the-ai-art-market.md)
   * [The hidden ‘art’ of the art market](the-heart-of-ai-based-systems-society-human-interactions-economics-philosophy-and-behavior/the-economics-and-behavioral-economics-of-ai-art/the-hidden-art-of-the-art-market.md)
   * [The ‘dark’ of the art market](the-heart-of-ai-based-systems-society-human-interactions-economics-philosophy-and-behavior/the-economics-and-behavioral-economics-of-ai-art/the-dark-of-the-art-market.md)
+  * [The producer side analysis](the-heart-of-ai-based-systems-society-human-interactions-economics-philosophy-and-behavior/the-economics-and-behavioral-economics-of-ai-art/the-producer-side-analysis.md)

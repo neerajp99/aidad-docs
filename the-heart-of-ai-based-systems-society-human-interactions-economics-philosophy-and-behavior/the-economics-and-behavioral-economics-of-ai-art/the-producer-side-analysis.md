@@ -1,0 +1,14 @@
+# The producer side analysis
+
+The process of the creation of AI art tends to be rather more cost friendly and efficient. Overall the production of most AI art is faster and quicker compared to non-AI based art. One of the reasons behind this is that AI art is not prone to creative blocks. In a video interview with artist Roman Lipski, he very humbly explained his life story of how he ended up into a creative block in 2016 as a non-AI artist and could not paint any more for a long period of time. This is when he was introduced to AI as an AI muse (assistant) by one of Lipski’s technical acquaintances. This AI muse helps him to come up with ideas and he believes it has in one sense improved the quality of his work along with his productivity. It has become more creative and his art has significantly changed from his pre-muse times to post AI muse times. This is essentially the capability of AI based art in essence. It can bring about better productivity and creativity if used in the right way.
+
+And it is because of this increased productivity and technological interference in the art field, that artists like Roman Lipski and Mario Klingemann can in effect benefit from Economies of Large-Scale production. By producing several more pieces in the same span of time, the average cost of production goes down as with the same fixed unit can produce several iterations of paintings (also referred to as Technical economies of scale) and by selling albums or iterations of paintings together, they can also benefit from bulk buying and selling strategies reducing the time, effort and labor on selling the art works if ideal market conditions exist.
+
+According to AI artist Mario Klingemann. If there are appropriate resources and engineering, he can generate “over 100s of artworks in an hour”. (Mail Interview, July 26, 2020).
+
+Moreover, there is only initial fixed investment of the machinery in the case of Klingemann’s installations. Afterwards, there are quick iterations of works in contrast to traditional art, which would be only a single final output... Variable Costs of art works produced by Klingemann Portrait making machine is virtually null. More and more pieces can be produced in the exhibit, each time producing a new figure without any additional costs (Refer to figure below). A similar strategy is deployed by other AI artists as well like Tyler Hobbs where there are multiple iterations of the same painting produced by the algorithm. In summary, this reduces the repetitive effort and work of the artist and instead allows greater focus on developing new sets of pieces.
+
+![Loxography, Hobbs 2019](<../../.gitbook/assets/Screenshot 2022-01-05 at 6.59.59 PM.png>)
+
+![Memories of Passersby,
+Klingemann 2019](<../../.gitbook/assets/Screenshot 2022-01-05 at 7.00.07 PM.png>)
